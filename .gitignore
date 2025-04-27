@@ -2,5 +2,6 @@ venv/
 wandb/
 runs/
 images/
-.jsonl
-.zip
+*.jsonl
+*.zip
+*.pdf
