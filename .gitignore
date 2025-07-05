@@ -1,7 +1,7 @@
 venv/
 wandb/
 runs/
-images/
-*.jsonl
 *.zip
 *.pdf
+.venv
+.pkl
